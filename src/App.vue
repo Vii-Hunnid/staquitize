@@ -59,11 +59,11 @@
           <img src="./assets/bankingQRCode.png" alt="Company Banking QR-Code">
           <h4>Bank Transfer</h4>      
           <div class="main flex-item">Account Holder: Hunnid The Tycoon Enterprise (PTY) LTD<br />
-            Account Type: RMB Cheque Account<br />
-            Account Number: 16349002955<br />
-            Branch Code: 679000<br />
-            BIC/SWIFT: VIIZAJJXXX<br />
-            <h5>Paypal: viihunnid@icloud.com</h5>
+            Account Type: Your Bank Name<br />
+            Account Number: 1234567891011<br />
+            Branch Code: 0123456<br />
+            BIC/SWIFT: ABCDEGFH<br />
+            <h5>Paypal: yourpersonal@email.com</h5>
           </div>
         </div>
 
