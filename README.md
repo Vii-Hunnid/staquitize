@@ -1,5 +1,7 @@
 # staquitize
 
+# https://viihunnid.gumroad.com/l/nlpdz
+
 ## Project setup
 ```
 npm install
