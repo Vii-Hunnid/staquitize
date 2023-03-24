@@ -58,7 +58,7 @@
           <h3>PAYMENT DETAILS:</h3>   
           <img src="./assets/bankingQRCode.png" alt="Company Banking QR-Code">
           <h4>Bank Transfer</h4>      
-          <div class="main flex-item">Account Holder: Hunnid The Tycoon Enterprise (PTY) LTD<br />
+          <div class="main flex-item">Account Holder: Your Company Name (PTY) LTD<br />
             Account Type: Your Bank Name<br />
             Account Number: 1234567891011<br />
             Branch Code: 0123456<br />
