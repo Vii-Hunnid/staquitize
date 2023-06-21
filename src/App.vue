@@ -149,7 +149,7 @@ export default {
   },
   methods: {
     addProduct() {
-      this.products.push({ name: '', quantity: 0, price: 0.00 });
+      this.products.push({ name: '', desc: '', quantity: 0, price: 0.00 });
     },
     deleteProduct(index) {
       this.products.splice(index, 1);
