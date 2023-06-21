@@ -44,7 +44,7 @@
           <tbody>
             <tr v-for="(product) in products" :key="product.name">
               <td><input maxlength="150" v-model="product.name" /></td>
-              <td><input maxlength="250" v-model="product.name" /></td>
+              <td><input maxlength="250" v-model="product.desc" /></td>
               <td><input type="number" v-model.number="product.quantity" /></td>
               <td><input type="number" v-model.number="product.price" /></td>
               <td>{{ product.total }}</td>
@@ -117,9 +117,9 @@ export default {
       }),
 
       products: [
-        { name: 'Product 1', quantity: 2, price: 50.00 },
-        { name: 'Product 2', quantity: 3, price: 40.00 },
-        { name: 'Product 3', quantity: 1, price: 60.00 }
+        { name: 'Product 1', desc: 'Description 1', quantity: 2, price: 50.00 },
+        { name: 'Product 2', desc: 'Description 2', quantity: 3, price: 40.00 },
+        { name: 'Product 3', desc: 'Description 3', quantity: 1, price: 60.00 }
       ],
       taxRate: 0.15, // 15% tax rate
       discountRate: 0.1, // 10% discount rate
